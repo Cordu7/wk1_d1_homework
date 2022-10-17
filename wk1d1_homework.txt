@@ -1,0 +1,3 @@
+This is the first day's homework. I have made a new directory with the mkdir command, and added a text file to it. The ls command was extremely usefull, because is helped me figure out what files were in which folder. Mar's homework file also helped, because my first attempt of creating the directory didn't work, I had misspelled a word.
+I wonder if this does spell checks, or if text should be written on microsoft or something similar to ensure spelling.
+Next I need to initiate git. I wonder if that is possibe after I created the files, I cannot remember in which order we did this in class.
